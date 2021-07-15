@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flink-batch-data-engg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/flink_batch_data_engg_jar</output-path>
+    <root id="archive" name="flink-batch-data-engg.jar">
+      <element id="module-output" name="flink-batch-data-engg" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/mysql/mysql-connector-java/8.0.18/mysql-connector-java-8.0.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/slf4j/slf4j-log4j12/1.7.7/slf4j-log4j12-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/flink/flink-jdbc/1.3.1/flink-jdbc-1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/slf4j/slf4j-api/1.7.15/slf4j-api-1.7.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.m2/repository/org/apache/flink/force-shading/1.9.1/force-shading-1.9.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
